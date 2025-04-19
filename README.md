@@ -1,6 +1,6 @@
 # Client-Server-Development
 
-#Scenario
+# Scenario
 You work for Global Rain, a software engineering company that specializes in custom software design and development. Your team has been assigned to work on a project for an innovative international rescue-animal training company, Grazioso Salvare. You have been made the lead developer on this project.
 
 As part of its work, Grazioso Salvare identifies dogs that are good candidates for search-and-rescue training. When trained, these dogs are able to find and help to rescue humans or other animals, often in life-threatening conditions. To help identify dogs for training, Grazioso Salvare has reached an agreement with a non-profit agency that operates five animal shelters in the region around Austin, Texas. This non-profit agency will provide Grazioso Salvare with data from their shelters.
@@ -13,7 +13,7 @@ In the initial phases of this development, you developed a database and a Python
 
 Additionally, Grazioso Salvare has requested that the code for this project be open source and accessible on GitHub, so that it may be used and adapted by similar organizations. To that end, they have asked that you also create a README file that documents and provides instructions for reproducing the project.
 
-#Directions
+# Directions
 Web Application Dashboard (Python Code)
 After successful completion of previous milestones and Project One, you have created a database and established successful CRUD routines in Python for MongoDB. For Project Two, you will now create a fully functional MongoDB dashboard. This will allow the client, Grazioso Salvare, to interact with and visualize the database.
 
